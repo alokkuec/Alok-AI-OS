@@ -1,27 +1,42 @@
-# Product
+# Product Playbook
 
 ## Product Philosophy
+Build products that solve meaningful customer problems and create measurable business outcomes.
 
 ## Discovery
-
-## Roadmapping
+- Customer interviews
+- Usage analytics
+- Sales and support feedback
+- Market research
 
 ## Prioritization
+Preferred inputs:
+- Customer impact
+- Business value
+- Engineering effort
+- Strategic alignment
 
 ## Metrics
+Track:
+- Adoption
+- Activation
+- Retention
+- Engagement
+- Revenue impact
 
-## North Star Metrics
+## AI Product Principles
+- AI should improve workflows, not replace them unnecessarily.
+- Explainability matters.
+- Measure quality, latency, and cost.
+- Design human-in-the-loop experiences where appropriate.
 
-## Experimentation
+## Product Documents
+Maintain:
+- PRDs
+- One-pagers
+- GTM plans
+- Release notes
+- Competitive analyses
 
-## Pricing
-
-## AI Product Management
-
-## CRM Integrations
-
-## PRD Guidelines
-
-## GTM
-
-## Product Interview Notes
+## Learning Backlog
+Capture new frameworks, interview questions, and product ideas here.
