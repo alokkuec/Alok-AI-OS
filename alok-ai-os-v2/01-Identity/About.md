@@ -1,19 +1,43 @@
-# About Alok
+# About Alok Kumar
 
-## Summary
-- Bengaluru, India
-- Senior Product Manager
-- B2B SaaS
-- AI Products
-- CRM Integrations
-- Product Analytics
+## Executive Summary
+Senior Product Manager based in Bengaluru, India, with experience building B2B SaaS products across Revenue AI, customer engagement, workflow automation, CRM integrations, and AI-powered experiences.
 
-## Strengths
-- Product Strategy
-- Cross-functional leadership
+## Professional Profile
+- 14+ years in product and technology
+- Product leadership at 6sense, Acquire.io, and Zinier
+- Strong execution across discovery, roadmapping, delivery, and adoption
+- Interested in AI-native product management and intelligent workflows
+
+## Core Strengths
+- Product strategy
 - Customer discovery
-- AI-native product thinking
+- Cross-functional leadership
+- Product analytics
+- AI product thinking
+- CRM integrations
+- Go-to-market collaboration
 
-## Goals
-- Senior/Principal PM role
-- Become an AI-native Product Leader
+## Working Style
+- Data-informed but customer-first
+- Bias toward shipping MVPs and iterating
+- Prefer written communication with clear structure
+- Comfortable working with engineering, design, sales, and customer success
+
+## Current Career Goals
+1. Secure a Senior/Principal Product Manager role.
+2. Become an AI-native product leader.
+3. Build a portfolio of AI products and agents.
+4. Continuously improve technical depth in AI systems.
+
+## Current Learning Areas
+- MCP
+- RAG
+- AI Agents
+- n8n
+- PostHog
+- Product analytics
+- Prompt engineering
+
+## TODO
+Update quarterly with new goals and achievements.
