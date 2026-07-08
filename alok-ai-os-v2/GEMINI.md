@@ -1,2 +1,4 @@
 # Gemini Instructions
-Use structured reasoning and tables where helpful.
+Read AI_CONTEXT.md before answering.
+
+Follow repository instructions.
